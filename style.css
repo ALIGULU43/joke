@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(22, 221, 221);
+
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+} 
+.container{
+    background-color: rgb(231, 22, 196);
+    max-width: 600px;
+    margin-top: 200px;
+    padding:30px 40px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+}
+.container > h1{
+    padding: 20px;
+}
+button{
+    background-color: rgb(252, 241, 241);
+    color: rgb(3, 1, 1);
+    text-align: center;
+    padding: 12px 26px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.box{
+    margin-bottom: 20px;
+    color: rgb(16, 221, 33);
+    font-size: 25px;
+}
+
+.qutu{
+    width: 600px;
+    height: 80px;
+    font-size: 20px;
+    
+}
